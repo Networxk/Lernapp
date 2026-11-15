@@ -1,6 +1,6 @@
 /* Service Worker: speichert die App-Dateien, damit die App komplett offline läuft.
    Bei Änderungen an den Dateien CACHE_VERSION erhöhen. */
-const CACHE_VERSION = 'lernkarten-v1';
+const CACHE_VERSION = 'lernkarten-v2';
 const ASSETS = [
   './',
   './index.html',
@@ -12,7 +12,8 @@ const ASSETS = [
   './icons/icon-192.png',
   './icons/icon-512.png',
   './icons/icon-maskable-512.png',
-  './icons/apple-touch-icon.png'
+  './icons/apple-touch-icon.png',
+  './testdaten/musterung-100-fragen.json'
 ];
 
 self.addEventListener('install', event => {

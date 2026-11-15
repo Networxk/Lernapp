@@ -453,6 +453,11 @@ async function renderSettings() {
       storageInfo
     ),
     h('section', { class: 'panel' },
+      h('h2', {}, 'Beispielstapel'),
+      h('p', { class: 'muted small' }, 'Fertige Karten direkt in die App laden. Vorhandene Karten bleiben erhalten, mehrfaches Laden erzeugt keine Duplikate.'),
+      SAMPLE_SETS.map(s => h('button', { class: 'btn ghost big', onclick: () => loadSample(s) }, s.label))
+    ),
+    h('section', { class: 'panel' },
       h('h2', {}, 'Leitner-System'),
       h('p', { class: 'muted small' }, 'Neue Karten starten in Fach 1. „Gewusst“ schiebt eine Karte ein Fach weiter, „Nicht gewusst“ zurück in Fach 1.'),
       h('table', { class: 'intervals' },
@@ -472,6 +477,24 @@ async function renderSettings() {
     ),
     h('p', { class: 'muted center small' }, 'Lernkarten · funktioniert offline · Daten bleiben auf deinem Gerät')
   );
+}
+
+const SAMPLE_SETS = [
+  { label: 'Musterung: 100 Übungsfragen laden', url: 'testdaten/musterung-100-fragen.json' }
+];
+
+async function loadSample(sample) {
+  try {
+    const res = await fetch(sample.url);
+    if (!res.ok) throw new Error(`Datei nicht gefunden (${res.status})`);
+    const data = validateImport(await res.json());
+    await DB.importAll(data, 'merge');
+    toast(`${plural(data.cards.length, 'Karte', 'Karten')} geladen`);
+    navigate('#/');
+  } catch (err) {
+    console.error(err);
+    alert('Laden fehlgeschlagen: ' + err.message);
+  }
 }
 
 async function exportData() {
