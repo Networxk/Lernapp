@@ -1,0 +1,1033 @@
+{
+  "app": "lernkarten",
+  "version": 1,
+  "exported": "2026-11-15T00:00:00.000Z",
+  "decks": [
+    {
+      "id": "musterung-stapel-1",
+      "name": "Musterung: Bundeswehr & Wehrdienst",
+      "created": 1763164800001,
+      "updated": 1763164800001
+    },
+    {
+      "id": "musterung-stapel-2",
+      "name": "Musterung: Dienstgrade & Organisation",
+      "created": 1763164800002,
+      "updated": 1763164800002
+    },
+    {
+      "id": "musterung-stapel-3",
+      "name": "Musterung: Politik & Staatskunde",
+      "created": 1763164800003,
+      "updated": 1763164800003
+    },
+    {
+      "id": "musterung-stapel-4",
+      "name": "Musterung: Allgemeinwissen, Logik & Mathe",
+      "created": 1763164800004,
+      "updated": 1763164800004
+    }
+  ],
+  "cards": [
+    {
+      "id": "musterung-1-001",
+      "deckId": "musterung-stapel-1",
+      "front": "Wann wurde die Bundeswehr gegründet?",
+      "back": "Am 12. November 1955.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164801001,
+      "updated": 1763164801001
+    },
+    {
+      "id": "musterung-1-002",
+      "deckId": "musterung-stapel-1",
+      "front": "Wer hat in Friedenszeiten die Befehls- und Kommandogewalt über die Bundeswehr?",
+      "back": "Der/die Bundesminister/in der Verteidigung (Art. 65a GG).",
+      "box": 1,
+      "due": 0,
+      "created": 1763164801002,
+      "updated": 1763164801002
+    },
+    {
+      "id": "musterung-1-003",
+      "deckId": "musterung-stapel-1",
+      "front": "Auf wen geht die Befehls- und Kommandogewalt im Verteidigungsfall über?",
+      "back": "Auf den/die Bundeskanzler/in (Art. 115b GG).",
+      "box": 1,
+      "due": 0,
+      "created": 1763164801003,
+      "updated": 1763164801003
+    },
+    {
+      "id": "musterung-1-004",
+      "deckId": "musterung-stapel-1",
+      "front": "Wer muss bewaffneten Auslandseinsätzen der Bundeswehr zustimmen?",
+      "back": "Der Deutsche Bundestag – die Bundeswehr ist eine „Parlamentsarmee“.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164801004,
+      "updated": 1763164801004
+    },
+    {
+      "id": "musterung-1-005",
+      "deckId": "musterung-stapel-1",
+      "front": "Was versteht man unter „Innerer Führung“?",
+      "back": "Die Führungsphilosophie der Bundeswehr: Soldaten sind an Grundgesetz, Menschenwürde und Recht gebunden; Führen mit Auftrag, Einsicht und Verantwortung.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164801005,
+      "updated": 1763164801005
+    },
+    {
+      "id": "musterung-1-006",
+      "deckId": "musterung-stapel-1",
+      "front": "Was bedeutet das Leitbild „Staatsbürger in Uniform“?",
+      "back": "Soldaten haben grundsätzlich dieselben Rechte wie alle Bürger; sie werden nur eingeschränkt, soweit es der militärische Dienst erfordert.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164801006,
+      "updated": 1763164801006
+    },
+    {
+      "id": "musterung-1-007",
+      "deckId": "musterung-stapel-1",
+      "front": "Was ist der/die Wehrbeauftragte des Bundestages?",
+      "back": "Ein Hilfsorgan des Bundestages zur parlamentarischen Kontrolle der Streitkräfte. Jeder Soldat kann sich direkt, ohne Dienstweg, an ihn/sie wenden (Art. 45b GG).",
+      "box": 1,
+      "due": 0,
+      "created": 1763164801007,
+      "updated": 1763164801007
+    },
+    {
+      "id": "musterung-1-008",
+      "deckId": "musterung-stapel-1",
+      "front": "Wer ist der ranghöchste Soldat der Bundeswehr?",
+      "back": "Der Generalinspekteur der Bundeswehr.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164801008,
+      "updated": 1763164801008
+    },
+    {
+      "id": "musterung-1-009",
+      "deckId": "musterung-stapel-1",
+      "front": "Was ist das Hoheitszeichen der Bundeswehr?",
+      "back": "Das Eiserne Kreuz.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164801009,
+      "updated": 1763164801009
+    },
+    {
+      "id": "musterung-1-010",
+      "deckId": "musterung-stapel-1",
+      "front": "Wie lautet das feierliche Gelöbnis?",
+      "back": "„Ich gelobe, der Bundesrepublik Deutschland treu zu dienen und das Recht und die Freiheit des deutschen Volkes tapfer zu verteidigen.“",
+      "box": 1,
+      "due": 0,
+      "created": 1763164801010,
+      "updated": 1763164801010
+    },
+    {
+      "id": "musterung-1-011",
+      "deckId": "musterung-stapel-1",
+      "front": "Was ist der Unterschied zwischen Gelöbnis und Eid?",
+      "back": "Wehrdienstleistende legen das Gelöbnis ab, Zeit- und Berufssoldaten schwören den Diensteid.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164801011,
+      "updated": 1763164801011
+    },
+    {
+      "id": "musterung-1-012",
+      "deckId": "musterung-stapel-1",
+      "front": "Seit wann war die allgemeine Wehrpflicht in Deutschland ausgesetzt?",
+      "back": "Seit dem 1. Juli 2011.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164801012,
+      "updated": 1763164801012
+    },
+    {
+      "id": "musterung-1-013",
+      "deckId": "musterung-stapel-1",
+      "front": "In welchem Artikel des Grundgesetzes ist die Wehrpflicht geregelt?",
+      "back": "Artikel 12a GG.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164801013,
+      "updated": 1763164801013
+    },
+    {
+      "id": "musterung-1-014",
+      "deckId": "musterung-stapel-1",
+      "front": "Welcher Grundgesetzartikel garantiert das Recht auf Kriegsdienstverweigerung?",
+      "back": "Artikel 4 Absatz 3 GG.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164801014,
+      "updated": 1763164801014
+    },
+    {
+      "id": "musterung-1-015",
+      "deckId": "musterung-stapel-1",
+      "front": "Was wird bei der Musterung festgestellt?",
+      "back": "Die gesundheitliche Eignung (Wehrdienstfähigkeit) durch eine ärztliche Untersuchung, ggf. ergänzt durch Eignungstests.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164801015,
+      "updated": 1763164801015
+    },
+    {
+      "id": "musterung-1-016",
+      "deckId": "musterung-stapel-1",
+      "front": "Was bedeutet der Tauglichkeitsgrad T5?",
+      "back": "Nicht wehrdienstfähig.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164801016,
+      "updated": 1763164801016
+    },
+    {
+      "id": "musterung-1-017",
+      "deckId": "musterung-stapel-1",
+      "front": "Was ist ein Reservist?",
+      "back": "Eine Person, die aus dem aktiven Wehrdienst ausgeschieden ist und weiterhin zu Reservistendienstleistungen herangezogen werden kann.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164801017,
+      "updated": 1763164801017
+    },
+    {
+      "id": "musterung-1-018",
+      "deckId": "musterung-stapel-1",
+      "front": "Wie heißt der Interessenverband der Reservisten?",
+      "back": "Verband der Reservisten der Deutschen Bundeswehr e. V.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164801018,
+      "updated": 1763164801018
+    },
+    {
+      "id": "musterung-1-019",
+      "deckId": "musterung-stapel-1",
+      "front": "Welches Gesetz regelt die Rechte und Pflichten der Soldaten?",
+      "back": "Das Soldatengesetz (SG).",
+      "box": 1,
+      "due": 0,
+      "created": 1763164801019,
+      "updated": 1763164801019
+    },
+    {
+      "id": "musterung-1-020",
+      "deckId": "musterung-stapel-1",
+      "front": "Wann darf bzw. muss ein Befehl nicht befolgt werden?",
+      "back": "Wenn dadurch eine Straftat begangen würde. Unverbindlich sind auch Befehle, die die Menschenwürde verletzen oder keinem dienstlichen Zweck dienen (§ 11 SG).",
+      "box": 1,
+      "due": 0,
+      "created": 1763164801020,
+      "updated": 1763164801020
+    },
+    {
+      "id": "musterung-1-021",
+      "deckId": "musterung-stapel-1",
+      "front": "Was verlangt die Kameradschaftspflicht?",
+      "back": "Die Würde, Ehre und Rechte der Kameraden zu achten und ihnen in Not und Gefahr beizustehen (§ 12 SG).",
+      "box": 1,
+      "due": 0,
+      "created": 1763164801021,
+      "updated": 1763164801021
+    },
+    {
+      "id": "musterung-1-022",
+      "deckId": "musterung-stapel-1",
+      "front": "Wo hat das Bundesministerium der Verteidigung seinen ersten Dienstsitz?",
+      "back": "In Bonn (Hardthöhe); zweiter Dienstsitz ist Berlin (Bendlerblock).",
+      "box": 1,
+      "due": 0,
+      "created": 1763164801022,
+      "updated": 1763164801022
+    },
+    {
+      "id": "musterung-1-023",
+      "deckId": "musterung-stapel-1",
+      "front": "Welche Teilstreitkräfte hat die Bundeswehr?",
+      "back": "Heer, Luftwaffe, Marine sowie Cyber- und Informationsraum.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164801023,
+      "updated": 1763164801023
+    },
+    {
+      "id": "musterung-1-024",
+      "deckId": "musterung-stapel-1",
+      "front": "Wofür steht die Abkürzung ABC-Abwehr?",
+      "back": "Abwehr atomarer, biologischer und chemischer Gefahren (heute oft CBRN-Abwehr).",
+      "box": 1,
+      "due": 0,
+      "created": 1763164801024,
+      "updated": 1763164801024
+    },
+    {
+      "id": "musterung-1-025",
+      "deckId": "musterung-stapel-1",
+      "front": "Wie lange dauert die allgemeine Grundausbildung ungefähr?",
+      "back": "Etwa drei Monate.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164801025,
+      "updated": 1763164801025
+    },
+    {
+      "id": "musterung-2-001",
+      "deckId": "musterung-stapel-2",
+      "front": "Welche drei Laufbahngruppen gibt es in der Bundeswehr?",
+      "back": "Mannschaften, Unteroffiziere und Offiziere.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164802001,
+      "updated": 1763164802001
+    },
+    {
+      "id": "musterung-2-002",
+      "deckId": "musterung-stapel-2",
+      "front": "Wie lautet der niedrigste Mannschaftsdienstgrad im Heer allgemein?",
+      "back": "Soldat (je nach Truppengattung z. B. Schütze, Grenadier, Jäger, Kanonier, Pionier).",
+      "box": 1,
+      "due": 0,
+      "created": 1763164802002,
+      "updated": 1763164802002
+    },
+    {
+      "id": "musterung-2-003",
+      "deckId": "musterung-stapel-2",
+      "front": "Nenne die Mannschaftsdienstgrade in aufsteigender Reihenfolge.",
+      "back": "Soldat – Gefreiter – Obergefreiter – Hauptgefreiter – Stabsgefreiter – Oberstabsgefreiter.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164802003,
+      "updated": 1763164802003
+    },
+    {
+      "id": "musterung-2-004",
+      "deckId": "musterung-stapel-2",
+      "front": "Welche Dienstgrade gehören zu den Unteroffizieren ohne Portepee?",
+      "back": "Unteroffizier und Stabsunteroffizier.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164802004,
+      "updated": 1763164802004
+    },
+    {
+      "id": "musterung-2-005",
+      "deckId": "musterung-stapel-2",
+      "front": "Nenne die Feldwebeldienstgrade (Unteroffiziere mit Portepee) aufsteigend.",
+      "back": "Feldwebel – Oberfeldwebel – Hauptfeldwebel – Stabsfeldwebel – Oberstabsfeldwebel.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164802005,
+      "updated": 1763164802005
+    },
+    {
+      "id": "musterung-2-006",
+      "deckId": "musterung-stapel-2",
+      "front": "Nenne die Offiziersdienstgrade vom Leutnant bis zum Oberst.",
+      "back": "Leutnant – Oberleutnant – Hauptmann – Major – Oberstleutnant – Oberst.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164802006,
+      "updated": 1763164802006
+    },
+    {
+      "id": "musterung-2-007",
+      "deckId": "musterung-stapel-2",
+      "front": "Welche Dienstgrade zählen zu den Stabsoffizieren?",
+      "back": "Major, Oberstleutnant und Oberst.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164802007,
+      "updated": 1763164802007
+    },
+    {
+      "id": "musterung-2-008",
+      "deckId": "musterung-stapel-2",
+      "front": "Nenne die Generalsdienstgrade (Heer/Luftwaffe) aufsteigend.",
+      "back": "Brigadegeneral – Generalmajor – Generalleutnant – General.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164802008,
+      "updated": 1763164802008
+    },
+    {
+      "id": "musterung-2-009",
+      "deckId": "musterung-stapel-2",
+      "front": "Welcher Marinedienstgrad entspricht dem Hauptmann?",
+      "back": "Kapitänleutnant.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164802009,
+      "updated": 1763164802009
+    },
+    {
+      "id": "musterung-2-010",
+      "deckId": "musterung-stapel-2",
+      "front": "Welcher Marinedienstgrad entspricht dem Oberst?",
+      "back": "Kapitän zur See.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164802010,
+      "updated": 1763164802010
+    },
+    {
+      "id": "musterung-2-011",
+      "deckId": "musterung-stapel-2",
+      "front": "Welcher Marinedienstgrad entspricht dem Feldwebel?",
+      "back": "Bootsmann.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164802011,
+      "updated": 1763164802011
+    },
+    {
+      "id": "musterung-2-012",
+      "deckId": "musterung-stapel-2",
+      "front": "Welcher Marinedienstgrad entspricht dem Unteroffizier?",
+      "back": "Maat.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164802012,
+      "updated": 1763164802012
+    },
+    {
+      "id": "musterung-2-013",
+      "deckId": "musterung-stapel-2",
+      "front": "Welcher Marinedienstgrad entspricht dem Brigadegeneral?",
+      "back": "Flottillenadmiral.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164802013,
+      "updated": 1763164802013
+    },
+    {
+      "id": "musterung-2-014",
+      "deckId": "musterung-stapel-2",
+      "front": "Wie spricht man einen Hauptmann korrekt an?",
+      "back": "„Herr Hauptmann“ bzw. „Frau Hauptmann“.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164802014,
+      "updated": 1763164802014
+    },
+    {
+      "id": "musterung-2-015",
+      "deckId": "musterung-stapel-2",
+      "front": "Woran erkennt man einen Hauptmann (Heer) auf der Schulterklappe?",
+      "back": "An drei Sternen.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164802015,
+      "updated": 1763164802015
+    },
+    {
+      "id": "musterung-2-016",
+      "deckId": "musterung-stapel-2",
+      "front": "Wie wird der Kompaniefeldwebel umgangssprachlich genannt?",
+      "back": "„Spieß“ (auch „Mutter der Kompanie“).",
+      "box": 1,
+      "due": 0,
+      "created": 1763164802016,
+      "updated": 1763164802016
+    },
+    {
+      "id": "musterung-2-017",
+      "deckId": "musterung-stapel-2",
+      "front": "Wie groß ist eine Gruppe ungefähr?",
+      "back": "Etwa 8 bis 12 Soldaten, geführt von einem Gruppenführer.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164802017,
+      "updated": 1763164802017
+    },
+    {
+      "id": "musterung-2-018",
+      "deckId": "musterung-stapel-2",
+      "front": "Aus wie vielen Gruppen besteht ein Zug ungefähr?",
+      "back": "Aus 3 bis 4 Gruppen (ca. 30–40 Soldaten), geführt vom Zugführer.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164802018,
+      "updated": 1763164802018
+    },
+    {
+      "id": "musterung-2-019",
+      "deckId": "musterung-stapel-2",
+      "front": "Wer führt eine Kompanie?",
+      "back": "Der Kompaniechef (meist im Dienstgrad Hauptmann oder Major).",
+      "box": 1,
+      "due": 0,
+      "created": 1763164802019,
+      "updated": 1763164802019
+    },
+    {
+      "id": "musterung-2-020",
+      "deckId": "musterung-stapel-2",
+      "front": "Wer führt ein Bataillon?",
+      "back": "Der Bataillonskommandeur (meist Oberstleutnant).",
+      "box": 1,
+      "due": 0,
+      "created": 1763164802020,
+      "updated": 1763164802020
+    },
+    {
+      "id": "musterung-2-021",
+      "deckId": "musterung-stapel-2",
+      "front": "Ordne die Verbände aufsteigend: Brigade, Kompanie, Division, Bataillon.",
+      "back": "Kompanie – Bataillon – Brigade – Division.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164802021,
+      "updated": 1763164802021
+    },
+    {
+      "id": "musterung-2-022",
+      "deckId": "musterung-stapel-2",
+      "front": "Wie heißt eine Kompanie bei der Artillerie bzw. bei der Luftwaffe?",
+      "back": "Batterie (Artillerie) bzw. Staffel (Luftwaffe).",
+      "box": 1,
+      "due": 0,
+      "created": 1763164802022,
+      "updated": 1763164802022
+    },
+    {
+      "id": "musterung-2-023",
+      "deckId": "musterung-stapel-2",
+      "front": "Was ist der Leopard 2?",
+      "back": "Der Kampfpanzer der Bundeswehr.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164802023,
+      "updated": 1763164802023
+    },
+    {
+      "id": "musterung-2-024",
+      "deckId": "musterung-stapel-2",
+      "front": "Welches Kampfflugzeug fliegt die Luftwaffe hauptsächlich?",
+      "back": "Den Eurofighter (Typhoon); zusätzlich Tornado und künftig F-35.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164802024,
+      "updated": 1763164802024
+    },
+    {
+      "id": "musterung-2-025",
+      "deckId": "musterung-stapel-2",
+      "front": "Wie heißt das Standard-Sturmgewehr der Bundeswehr?",
+      "back": "G36 – es wird schrittweise durch das G95 ersetzt.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164802025,
+      "updated": 1763164802025
+    },
+    {
+      "id": "musterung-3-001",
+      "deckId": "musterung-stapel-3",
+      "front": "Wann trat das Grundgesetz in Kraft?",
+      "back": "Am 23. Mai 1949.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164803001,
+      "updated": 1763164803001
+    },
+    {
+      "id": "musterung-3-002",
+      "deckId": "musterung-stapel-3",
+      "front": "Wie lautet Artikel 1 Absatz 1 des Grundgesetzes?",
+      "back": "„Die Würde des Menschen ist unantastbar.“",
+      "box": 1,
+      "due": 0,
+      "created": 1763164803002,
+      "updated": 1763164803002
+    },
+    {
+      "id": "musterung-3-003",
+      "deckId": "musterung-stapel-3",
+      "front": "Wer ist das Staatsoberhaupt der Bundesrepublik Deutschland?",
+      "back": "Der/die Bundespräsident/in.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164803003,
+      "updated": 1763164803003
+    },
+    {
+      "id": "musterung-3-004",
+      "deckId": "musterung-stapel-3",
+      "front": "Wer wählt den Bundespräsidenten und für wie lange?",
+      "back": "Die Bundesversammlung, für 5 Jahre (einmalige Wiederwahl möglich).",
+      "box": 1,
+      "due": 0,
+      "created": 1763164803004,
+      "updated": 1763164803004
+    },
+    {
+      "id": "musterung-3-005",
+      "deckId": "musterung-stapel-3",
+      "front": "Wer wählt den Bundeskanzler?",
+      "back": "Der Deutsche Bundestag (auf Vorschlag des Bundespräsidenten).",
+      "box": 1,
+      "due": 0,
+      "created": 1763164803005,
+      "updated": 1763164803005
+    },
+    {
+      "id": "musterung-3-006",
+      "deckId": "musterung-stapel-3",
+      "front": "Wie lange dauert eine Wahlperiode des Bundestages?",
+      "back": "Vier Jahre.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164803006,
+      "updated": 1763164803006
+    },
+    {
+      "id": "musterung-3-007",
+      "deckId": "musterung-stapel-3",
+      "front": "Wie viele Bundesländer hat Deutschland?",
+      "back": "16.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164803007,
+      "updated": 1763164803007
+    },
+    {
+      "id": "musterung-3-008",
+      "deckId": "musterung-stapel-3",
+      "front": "Was sind die drei Gewalten der Gewaltenteilung?",
+      "back": "Legislative (Gesetzgebung), Exekutive (ausführende Gewalt), Judikative (Rechtsprechung).",
+      "box": 1,
+      "due": 0,
+      "created": 1763164803008,
+      "updated": 1763164803008
+    },
+    {
+      "id": "musterung-3-009",
+      "deckId": "musterung-stapel-3",
+      "front": "Nenne die fünf Wahlrechtsgrundsätze.",
+      "back": "Allgemein, unmittelbar, frei, gleich und geheim (Art. 38 GG).",
+      "box": 1,
+      "due": 0,
+      "created": 1763164803009,
+      "updated": 1763164803009
+    },
+    {
+      "id": "musterung-3-010",
+      "deckId": "musterung-stapel-3",
+      "front": "Ab welchem Alter darf man an der Bundestagswahl teilnehmen?",
+      "back": "Ab 18 Jahren.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164803010,
+      "updated": 1763164803010
+    },
+    {
+      "id": "musterung-3-011",
+      "deckId": "musterung-stapel-3",
+      "front": "Was wählt man mit der Zweitstimme?",
+      "back": "Die Landesliste einer Partei – sie bestimmt die Sitzverteilung im Bundestag.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164803011,
+      "updated": 1763164803011
+    },
+    {
+      "id": "musterung-3-012",
+      "deckId": "musterung-stapel-3",
+      "front": "Was besagt die Fünf-Prozent-Hürde?",
+      "back": "Eine Partei braucht mindestens 5 % der Zweitstimmen, um in den Bundestag einzuziehen (Ausnahme: Grundmandatsklausel).",
+      "box": 1,
+      "due": 0,
+      "created": 1763164803012,
+      "updated": 1763164803012
+    },
+    {
+      "id": "musterung-3-013",
+      "deckId": "musterung-stapel-3",
+      "front": "Welches Organ vertritt die Bundesländer auf Bundesebene?",
+      "back": "Der Bundesrat.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164803013,
+      "updated": 1763164803013
+    },
+    {
+      "id": "musterung-3-014",
+      "deckId": "musterung-stapel-3",
+      "front": "Wo hat das Bundesverfassungsgericht seinen Sitz?",
+      "back": "In Karlsruhe.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164803014,
+      "updated": 1763164803014
+    },
+    {
+      "id": "musterung-3-015",
+      "deckId": "musterung-stapel-3",
+      "front": "Was ist ein konstruktives Misstrauensvotum?",
+      "back": "Der Bundestag kann den Kanzler nur abwählen, indem er gleichzeitig einen Nachfolger wählt (Art. 67 GG).",
+      "box": 1,
+      "due": 0,
+      "created": 1763164803015,
+      "updated": 1763164803015
+    },
+    {
+      "id": "musterung-3-016",
+      "deckId": "musterung-stapel-3",
+      "front": "Was schützt die „Ewigkeitsklausel“ (Art. 79 Abs. 3 GG)?",
+      "back": "Die Menschenwürde, die Grundsätze von Demokratie, Rechts-, Sozial- und Bundesstaat sowie die Gliederung in Länder – sie dürfen nicht abgeschafft werden.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164803016,
+      "updated": 1763164803016
+    },
+    {
+      "id": "musterung-3-017",
+      "deckId": "musterung-stapel-3",
+      "front": "Was bedeutet „wehrhafte Demokratie“?",
+      "back": "Der Staat kann sich gegen Feinde der freiheitlich-demokratischen Grundordnung wehren, z. B. durch Parteiverbote.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164803017,
+      "updated": 1763164803017
+    },
+    {
+      "id": "musterung-3-018",
+      "deckId": "musterung-stapel-3",
+      "front": "Wann fiel die Berliner Mauer?",
+      "back": "Am 9. November 1989.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164803018,
+      "updated": 1763164803018
+    },
+    {
+      "id": "musterung-3-019",
+      "deckId": "musterung-stapel-3",
+      "front": "Seit wann ist Deutschland wiedervereinigt?",
+      "back": "Seit dem 3. Oktober 1990 (Tag der Deutschen Einheit).",
+      "box": 1,
+      "due": 0,
+      "created": 1763164803019,
+      "updated": 1763164803019
+    },
+    {
+      "id": "musterung-3-020",
+      "deckId": "musterung-stapel-3",
+      "front": "Was ist die NATO und wann wurde sie gegründet?",
+      "back": "Das Nordatlantische Verteidigungsbündnis, gegründet 1949, Hauptquartier in Brüssel.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164803020,
+      "updated": 1763164803020
+    },
+    {
+      "id": "musterung-3-021",
+      "deckId": "musterung-stapel-3",
+      "front": "Seit wann ist die Bundesrepublik Mitglied der NATO?",
+      "back": "Seit 1955.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164803021,
+      "updated": 1763164803021
+    },
+    {
+      "id": "musterung-3-022",
+      "deckId": "musterung-stapel-3",
+      "front": "Was regelt Artikel 5 des NATO-Vertrags?",
+      "back": "Die Beistandspflicht: Ein bewaffneter Angriff auf ein Mitglied gilt als Angriff auf alle.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164803022,
+      "updated": 1763164803022
+    },
+    {
+      "id": "musterung-3-023",
+      "deckId": "musterung-stapel-3",
+      "front": "Wie viele Mitgliedstaaten hat die Europäische Union?",
+      "back": "27.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164803023,
+      "updated": 1763164803023
+    },
+    {
+      "id": "musterung-3-024",
+      "deckId": "musterung-stapel-3",
+      "front": "Wann wurden die Vereinten Nationen gegründet und wo ist ihr Hauptsitz?",
+      "back": "1945, Hauptsitz in New York.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164803024,
+      "updated": 1763164803024
+    },
+    {
+      "id": "musterung-3-025",
+      "deckId": "musterung-stapel-3",
+      "front": "Welche Farben hat die Bundesflagge und welche Strophe ist die Nationalhymne?",
+      "back": "Schwarz-Rot-Gold; die dritte Strophe des „Lieds der Deutschen“ („Einigkeit und Recht und Freiheit“).",
+      "box": 1,
+      "due": 0,
+      "created": 1763164803025,
+      "updated": 1763164803025
+    },
+    {
+      "id": "musterung-4-001",
+      "deckId": "musterung-stapel-4",
+      "front": "Wie viel sind 15 % von 240?",
+      "back": "36.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164804001,
+      "updated": 1763164804001
+    },
+    {
+      "id": "musterung-4-002",
+      "deckId": "musterung-stapel-4",
+      "front": "Ein Artikel kostet 80 €. Er wird um 20 % reduziert. Neuer Preis?",
+      "back": "64 €.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164804002,
+      "updated": 1763164804002
+    },
+    {
+      "id": "musterung-4-003",
+      "deckId": "musterung-stapel-4",
+      "front": "Setze die Reihe fort: 2 – 4 – 8 – 16 – ?",
+      "back": "32 (jeweils verdoppelt).",
+      "box": 1,
+      "due": 0,
+      "created": 1763164804003,
+      "updated": 1763164804003
+    },
+    {
+      "id": "musterung-4-004",
+      "deckId": "musterung-stapel-4",
+      "front": "Setze die Reihe fort: 1 – 4 – 9 – 16 – ?",
+      "back": "25 (Quadratzahlen).",
+      "box": 1,
+      "due": 0,
+      "created": 1763164804004,
+      "updated": 1763164804004
+    },
+    {
+      "id": "musterung-4-005",
+      "deckId": "musterung-stapel-4",
+      "front": "Setze die Reihe fort: 5 – 7 – 11 – 17 – 25 – ?",
+      "back": "35 (Abstände +2, +4, +6, +8, +10).",
+      "box": 1,
+      "due": 0,
+      "created": 1763164804005,
+      "updated": 1763164804005
+    },
+    {
+      "id": "musterung-4-006",
+      "deckId": "musterung-stapel-4",
+      "front": "Ein Fahrzeug fährt 2,5 Stunden mit 80 km/h. Welche Strecke legt es zurück?",
+      "back": "200 km.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164804006,
+      "updated": 1763164804006
+    },
+    {
+      "id": "musterung-4-007",
+      "deckId": "musterung-stapel-4",
+      "front": "5 Rationen kosten 12,50 €. Was kosten 8 Rationen?",
+      "back": "20 € (2,50 € pro Ration).",
+      "box": 1,
+      "due": 0,
+      "created": 1763164804007,
+      "updated": 1763164804007
+    },
+    {
+      "id": "musterung-4-008",
+      "deckId": "musterung-stapel-4",
+      "front": "Ein Marsch beginnt um 14:45 Uhr und dauert 7 Stunden 30 Minuten. Wann endet er?",
+      "back": "Um 22:15 Uhr.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164804008,
+      "updated": 1763164804008
+    },
+    {
+      "id": "musterung-4-009",
+      "deckId": "musterung-stapel-4",
+      "front": "Wie viel ist 0,5 × 0,5?",
+      "back": "0,25.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164804009,
+      "updated": 1763164804009
+    },
+    {
+      "id": "musterung-4-010",
+      "deckId": "musterung-stapel-4",
+      "front": "Wie groß ist die Fläche eines Rechtecks von 12 m × 8 m?",
+      "back": "96 m².",
+      "box": 1,
+      "due": 0,
+      "created": 1763164804010,
+      "updated": 1763164804010
+    },
+    {
+      "id": "musterung-4-011",
+      "deckId": "musterung-stapel-4",
+      "front": "Wie lang ist eine Seemeile?",
+      "back": "1.852 Meter.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164804011,
+      "updated": 1763164804011
+    },
+    {
+      "id": "musterung-4-012",
+      "deckId": "musterung-stapel-4",
+      "front": "Wie viel Grad entsprechen den Himmelsrichtungen Ost, Süd und West?",
+      "back": "Ost 90°, Süd 180°, West 270° (Nord 0°/360°).",
+      "box": 1,
+      "due": 0,
+      "created": 1763164804012,
+      "updated": 1763164804012
+    },
+    {
+      "id": "musterung-4-013",
+      "deckId": "musterung-stapel-4",
+      "front": "In wie viele Strich wird der Vollkreis beim Militär (NATO) eingeteilt?",
+      "back": "6.400 Strich.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164804013,
+      "updated": 1763164804013
+    },
+    {
+      "id": "musterung-4-014",
+      "deckId": "musterung-stapel-4",
+      "front": "„Hand verhält sich zu Finger wie Fuß zu …?“",
+      "back": "Zeh.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164804014,
+      "updated": 1763164804014
+    },
+    {
+      "id": "musterung-4-015",
+      "deckId": "musterung-stapel-4",
+      "front": "Alle Soldaten tragen Stiefel. Max trägt Stiefel. Ist Max sicher ein Soldat?",
+      "back": "Nein – aus der Aussage folgt das nicht.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164804015,
+      "updated": 1763164804015
+    },
+    {
+      "id": "musterung-4-016",
+      "deckId": "musterung-stapel-4",
+      "front": "Wie lautet die europaweite Notrufnummer für Rettungsdienst und Feuerwehr?",
+      "back": "112 (Polizei: 110).",
+      "box": 1,
+      "due": 0,
+      "created": 1763164804016,
+      "updated": 1763164804016
+    },
+    {
+      "id": "musterung-4-017",
+      "deckId": "musterung-stapel-4",
+      "front": "In welchem Verhältnis erfolgen Herzdruckmassage und Beatmung bei Erwachsenen?",
+      "back": "30 : 2 (30 Kompressionen, 2 Beatmungen), Frequenz 100–120 pro Minute.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164804017,
+      "updated": 1763164804017
+    },
+    {
+      "id": "musterung-4-018",
+      "deckId": "musterung-stapel-4",
+      "front": "Wie bringt man eine bewusstlose Person mit normaler Atmung in Sicherheit?",
+      "back": "In die stabile Seitenlage bringen, Atmung weiter überwachen und Notruf absetzen.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164804018,
+      "updated": 1763164804018
+    },
+    {
+      "id": "musterung-4-019",
+      "deckId": "musterung-stapel-4",
+      "front": "Welches ist der höchste Berg Deutschlands?",
+      "back": "Die Zugspitze (2.962 m).",
+      "box": 1,
+      "due": 0,
+      "created": 1763164804019,
+      "updated": 1763164804019
+    },
+    {
+      "id": "musterung-4-020",
+      "deckId": "musterung-stapel-4",
+      "front": "Welcher Fluss hat die längste Strecke in Deutschland?",
+      "back": "Der Rhein.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164804020,
+      "updated": 1763164804020
+    },
+    {
+      "id": "musterung-4-021",
+      "deckId": "musterung-stapel-4",
+      "front": "Wie viele Nachbarstaaten hat Deutschland?",
+      "back": "Neun.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164804021,
+      "updated": 1763164804021
+    },
+    {
+      "id": "musterung-4-022",
+      "deckId": "musterung-stapel-4",
+      "front": "Wie viele Einwohner hat Deutschland ungefähr?",
+      "back": "Rund 84 Millionen.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164804022,
+      "updated": 1763164804022
+    },
+    {
+      "id": "musterung-4-023",
+      "deckId": "musterung-stapel-4",
+      "front": "Welches ist der größte Planet unseres Sonnensystems?",
+      "back": "Jupiter.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164804023,
+      "updated": 1763164804023
+    },
+    {
+      "id": "musterung-4-024",
+      "deckId": "musterung-stapel-4",
+      "front": "Bei welcher Temperatur siedet Wasser auf Meereshöhe?",
+      "back": "Bei 100 °C.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164804024,
+      "updated": 1763164804024
+    },
+    {
+      "id": "musterung-4-025",
+      "deckId": "musterung-stapel-4",
+      "front": "Wie viele Kontinente gibt es (übliche Zählung)?",
+      "back": "Sieben: Afrika, Antarktika, Asien, Australien, Europa, Nordamerika, Südamerika.",
+      "box": 1,
+      "due": 0,
+      "created": 1763164804025,
+      "updated": 1763164804025
+    }
+  ]
+}
