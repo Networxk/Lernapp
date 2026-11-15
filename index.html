@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Lernkarten</title>
+  <meta name="description" content="Karteikarten lernen mit dem Leitner-System – komplett offline.">
+
+  <!-- PWA / iOS -->
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" content="#f4f5fb" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0f1117" media="(prefers-color-scheme: dark)">
+  <meta name="color-scheme" content="light dark">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Lernkarten">
+  <meta name="format-detection" content="telephone=no">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="icon" type="image/svg+xml" href="icons/icon.svg">
+  <link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
+
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <button id="backBtn" class="icon-btn" aria-label="Zurück" hidden>
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg>
+    </button>
+    <h1 id="title">Lernkarten</h1>
+    <button id="menuBtn" class="icon-btn" aria-label="Einstellungen &amp; Backup">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="5" r="1.6"/><circle cx="12" cy="12" r="1.6"/><circle cx="12" cy="19" r="1.6"/></svg>
+    </button>
+  </header>
+
+  <main id="view" tabindex="-1"></main>
+
+  <!-- Dialog: Stapel anlegen/umbenennen -->
+  <dialog id="deckDialog">
+    <form method="dialog" id="deckForm">
+      <h2 id="deckDialogTitle">Neuer Stapel</h2>
+      <label>Name
+        <input id="deckName" name="name" required maxlength="80" autocomplete="off" placeholder="z. B. Englisch Vokabeln">
+      </label>
+      <div class="dialog-actions">
+        <button type="button" class="btn ghost" data-close>Abbrechen</button>
+        <button type="submit" class="btn primary" value="save">Speichern</button>
+      </div>
+    </form>
+  </dialog>
+
+  <!-- Dialog: Karte anlegen/bearbeiten -->
+  <dialog id="cardDialog">
+    <form method="dialog" id="cardForm">
+      <h2 id="cardDialogTitle">Neue Karte</h2>
+      <label>Vorderseite
+        <textarea id="cardFront" required rows="3" placeholder="Frage / Begriff"></textarea>
+      </label>
+      <label>Rückseite
+        <textarea id="cardBack" required rows="3" placeholder="Antwort / Erklärung"></textarea>
+      </label>
+      <div class="dialog-actions">
+        <button type="button" class="btn ghost" data-close>Abbrechen</button>
+        <button type="submit" class="btn primary" value="save">Speichern</button>
+      </div>
+      <button type="submit" class="btn link" id="saveAndNext" value="next">Speichern &amp; nächste Karte</button>
+    </form>
+  </dialog>
+
+  <input type="file" id="importFile" accept=".json,application/json" hidden>
+  <div id="toast" role="status" aria-live="polite"></div>
+
+  <script src="db.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
